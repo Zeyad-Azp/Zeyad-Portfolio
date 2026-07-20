@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
-import { ArrowDown, Mail, Cpu, Database, Server } from "lucide-react";
+import { ArrowDown, Mail, Cpu, Database, Server, Download } from "lucide-react";
 
 export default function Hero() {
   const [typedText, setTypedText] = useState("");
@@ -79,6 +79,14 @@ export default function Hero() {
           <span>ZEYAD // BACKEND</span>
         </div>
         <div className="flex gap-4">
+          <a
+            href="/ZeyadCV.pdf"
+            download="Zeyad_Azab_CV.pdf"
+            className="flex items-center gap-2 px-3 py-1.5 sm:px-4 sm:py-2 rounded-full bg-cyber-blue text-black hover:bg-cyber-blue/90 text-[10px] sm:text-xs font-mono font-bold transition-all duration-300 shadow-[0_0_15px_rgba(0,240,255,0.15)] hover:shadow-[0_0_20px_rgba(0,240,255,0.4)] clickable"
+          >
+            <Download className="w-3.5 h-3.5" />
+            <span>Download CV</span>
+          </a>
           <a
             href="https://github.com/Zeyad-Azp"
             target="_blank"

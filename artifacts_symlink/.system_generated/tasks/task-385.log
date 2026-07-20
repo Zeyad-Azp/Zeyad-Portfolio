@@ -1,0 +1,7 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-07-20T07:30:51+03:00
+Prompt: Check status of Next.js production build for CV button and top navbar
+
+[2026-07-20T07:30:31+03:00] Still waiting. Remaining time: 20s
+[2026-07-20T07:30:41+03:00] Still waiting. Remaining time: 10s
+[2026-07-20T07:30:51+03:00] Timer fired.
