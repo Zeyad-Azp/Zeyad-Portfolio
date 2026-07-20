@@ -71,14 +71,14 @@ export default function Hero() {
   };
 
   return (
-    <section className="relative min-h-screen flex flex-col justify-between px-6 py-12 md:px-16 md:py-20 select-none overflow-hidden z-10">
+    <section className="relative min-h-screen flex flex-col justify-between px-6 pt-28 pb-12 md:px-16 md:pt-36 md:pb-20 select-none overflow-hidden z-10">
       {/* Header Bar at the start of the app */}
-      <header className="w-full max-w-5xl mx-auto flex justify-between items-center z-20">
-        <div className="font-mono text-xs sm:text-sm font-bold text-white tracking-widest flex items-center gap-2 select-none">
+      <header className="w-full max-w-5xl mx-auto flex flex-col gap-4 sm:flex-row sm:justify-between sm:items-center z-20">
+        <div className="font-mono text-xs sm:text-sm font-bold text-white tracking-widest flex items-center justify-center sm:justify-start gap-2 select-none">
           <span className="w-2 h-2 rounded-full bg-cyber-blue animate-ping" />
           <span>ZEYAD // BACKEND</span>
         </div>
-        <div className="flex gap-4">
+        <div className="flex flex-wrap gap-2.5 sm:gap-4 justify-center sm:justify-end">
           <a
             href="/ZeyadCV.pdf"
             download="Zeyad_Azab_CV.pdf"

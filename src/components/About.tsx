@@ -148,7 +148,7 @@ export default function About() {
       <div className="flex flex-col gap-2 mb-12 md:mb-16">
         <div className="text-xs font-mono text-cyber-purple uppercase tracking-widest">01 / Profile</div>
         <h2 className="text-3xl md:text-5xl font-space font-bold tracking-tight text-white">
-          About The <span className="text-cyber-blue">Engineer</span>
+          About Me <span className="text-cyber-blue"></span>
         </h2>
       </div>
 
@@ -173,10 +173,10 @@ export default function About() {
             <div className="p-2 text-[10px] text-zinc-500 font-mono font-bold uppercase tracking-wider">
               Explorer
             </div>
-            
+
             {/* Folder structures */}
             <div className="flex flex-col px-2">
-              <div 
+              <div
                 className="flex items-center gap-1 py-1 text-zinc-400 hover:text-white cursor-pointer"
                 onClick={() => setIsFolderOpen(!isFolderOpen)}
               >
