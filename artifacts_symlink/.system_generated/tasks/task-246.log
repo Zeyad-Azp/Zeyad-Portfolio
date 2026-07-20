@@ -1,0 +1,17 @@
+
+> zeyad-portfolio@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 4.7s
+ ○ Compiling / ...
+ ✓ Compiled / in 40s (2594 modules)
+ GET / 200 in 47043ms
+ ✓ Compiled in 6s (1280 modules)
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 26.5s (1328 modules)
+ GET /favicon.ico 200 in 28264ms
+ GET / 200 in 25663ms

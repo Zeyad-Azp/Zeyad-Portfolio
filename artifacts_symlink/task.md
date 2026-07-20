@@ -1,0 +1,41 @@
+# Task List: Zeyad's Backend Developer Portfolio
+
+- [x] Project Setup & Package Installation
+  - [x] Move `ZeyadCV.pdf` temporarily to parent directory
+  - [x] Run `create-next-app@14` to bootstrap project
+  - [x] Move `ZeyadCV.pdf` back to the project root
+  - [x] Install dependencies (`framer-motion`, `@lenis/react`, `three`, `@types/three`, `@react-three/fiber`, `@react-three/drei`, `lucide-react`)
+- [x] Global Design System Configuration
+  - [x] Set up fonts (`Space Grotesk`, `JetBrains Mono`) and tailwind configuration
+  - [x] Create `global.css` with dark background, glassmorphism variables, and utility classes
+- [x] Global Providers & Shell Layout
+  - [x] Implement `LenisProvider` for smooth scrolling
+  - [x] Build custom magnetic cursor component
+  - [x] Setup `layout.tsx` structure and page metadata
+- [x] Hero Component Development
+  - [x] Split-text spring animations for "Zeyad Azab"
+  - [x] Monospaced terminal typing animation for subtitle
+- [x] R3F Backend Server Canvas Background
+  - [x] Create nodes (API Gateway, Server Services, Databases) and paths
+  - [x] Animate flowing request packages along paths
+  - [x] Add mouse drag/distort physics to nodes
+  - [x] Add mobile fallback (static or basic SVG network to conserve battery)
+- [x] About Component (VS Code Editor Interface)
+  - [x] Mock VS Code sidebar, editor workspace, tabs (`Bio.cs`, `Education.json`, `Experience.md`)
+  - [x] Text reveal/typing animations per file tab select
+- [x] Skills Component (Swagger API Playground)
+  - [x] Mock Address Bar (`GET /api/v1/engineer/skills`) and Send button
+  - [x] Tab panels and syntax-highlighted interactive JSON response payload
+- [x] Projects Component (Horizontal Pinned Showcase with X-Ray Flip)
+  - [x] Pinned container translating vertical scroll to horizontal slider
+  - [x] 3D tilt animation on hover
+  - [x] Flip/X-Ray toggle button showing database ERD/system architecture of the project
+  - [x] Magnetic hover button physics for links
+- [x] Contact Component & Spotlight Form
+  - [x] Form interface with glassmorphism styling
+  - [x] Mouse cursor spotlight glowing follow gradient effect
+- [x] Non-Traditional Navigation
+  - [x] Build floating dock navbar with active state tracking
+- [x] Compilation & Deployment Check
+  - [x] Run local build (`npm run build`)
+  - [x] Validate responsive layouts on simulated mobile viewports

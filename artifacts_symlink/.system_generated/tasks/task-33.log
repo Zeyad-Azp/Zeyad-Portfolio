@@ -1,0 +1,84 @@
+--- Page 1 ---
+1  
+ 
+ 
+ 
+ 
+ 
+Objective 
+Zeyad Azab 
+.Net Backend Developer 
++201063736694 | zeyadazzap0@gmail.com | Giza, Egypt  
+linkedin.com/in/zeyad-azab/  |  github.com/Zeyad-Azp 
+ 
+ 
+Third-year AI student at Cairo University with a strong interest in backend development using ASP.NET Core 
+and the .NET ecosystem. Hands-on experience building RESTful APIs and full-stack web applications 
+following N-Tier, Onion, and Clean Architecture patterns. Passionate about writing clean, scalable code and 
+eager to grow as a Software Engineer through real-world projects. 
+Education 
+Bachelor of Computers and Artificial Intelligence, Cairo University  Aug 2023 � Jul 2027 
+Major: Artificial Intelligence 
+Experience 
+Software Development - Full stack .NET Web Development Nov 2025 � Jul 2026 
+Digital Egypt Pioneers Initiative (DEPI) with Eyouth 
+� Built scalable back-end services and RESTful APIs using ASP.NET Core Web API, following Clean 
+Architecture principles. 
+� Developed dynamic web applications using ASP.NET Core MVC with Razor Views, HTML5, CSS3, and 
+JavaScript. 
+� Front-end development using HTML5, CSS3, and JavaScript. 
+� Database management with SQL Server, Git/GitHub, and Basic knowledge of Docker and Containerization. 
+Full stack .NET Web Development Training Program Aug 2025 � Oct 2025 
+Information Technology Institute (ITI) 
+� Completed an intensive 120-hour full-stack training program, delivering a production-ready MVC application 
+within a 4-week deadline. 
+� Hands-on experience with ASP.NET Core MVC, Entity Framework Core, and Microsoft SQL Server. 
+� Built and deployed web applications that demonstrate proficiency in N-Tier Architecture and secure 
+development principles. 
+Technical Skills 
+Backend: C#, .NET Core, ASP.NET Core MVC, ASP.NET Core API, RESTful APIs, OOP, Entity Framework 
+Core, LINQ, N-Tier Architecture, Onion & Clean Architecture, Repository Pattern, ASP.NET Identity, SOLID, 
+Design Patterns, Dependency Injection, Containerization. 
+Database: Relational and non-Relational databases, Microsoft SQL Server, T-SQL, Database Modeling 
+(ERD), Normalization (3NF). 
+Frontend: HTML, CSS, JavaScript, Razor Views, React (basic). 
+Tools: Visual Studio, Git/GitHub, Microsoft Azure, Trello, OutSystems Agile Platform. 
+Other: C++, Java, Python, Data  Structures, Algorithms, Problem Solving, Prompt Engineering, Unit Testing 
+(basic), Postman, Swagger/OpenAPI. 
+Projects 
+Forsa � Event Management Web Application (DEPI Graduation Project) GitHub Repo 
+� Project Description: Engineered a full-stack event management platform connecting Organizers, Venue 
+Owners, and Attendees in one system, supporting 3 distinct user roles through JWT -based authentication 
+and authorization, ensuring 100% secure access control across the platform . Designed and implemented 
+10+ RESTful API endpoints following Clean Architecture, enabling event creation, ticket booking, venue 
+management, and reviews. Integrated role-based access control (RBAC) and architected a system using 
+SignalR capable of handling 50+ concurrent real-time notifications for event updates. 
+� Technologies: React, C#, ASP.NET Core Web API, SQL Server, Entity Framework Core (EF Core), JWT 
+Authentication, SignalR, Clean Architecture, RESTful APIs. 
+ 
+Car Rent, Car Repair & Service Management System (ITI Graduation Project)  GitHub Repo 
+� Project Description: Built a full-stack ASP.NET Core MVC application for car rentals and service 
+bookings with RBAC for Admin, Mechanic, and User roles, Integrated PayPal payment gateway, Google 
+--- Page 2 ---
+1  
+Gemini AI chatbot, and automated email notifications via SMTP, delivering a secure and scalable solution.  
+ 
+� Technologies: C#, ASP.NET Core MVC, SQL Server, EF Core, Razor Views. 
+ 
+Duvar � Handmade Products Platform GitHub Repo 
+� Project Description: A Full-Stack handmade products platform with secure authentication using 
+BCrypt, product and category management, an admin dashboard, and automatic database seeding 
+following N-Tier Architecture and the Repository Pattern. 
+� Technologies: C#, ASP.NET Core MVC, SQL Server, Entity Framework Core (EF Core), BCrypt.Net, 
+Bootstrap 5, Razor Views, Repository Pattern, N-Tier Architecture. 
+ 
+Car Insurance Company System GitHub Repo 
+� Project Description: Applied a normalized relational database (3NF) using MS SQL Server, modeled 
+through a detailed ERD covering 6+ business entities and 8+ tables. Enhanced a C# GUI application with 
+fully validated CRUD operations, ensuring data integrity and improving system efficiency by reducing 
+redundant data entry by approximately 40% through proper normalization and indexing techniques.  
+� Technologies: C#, SQL Server, EF Core. 
+Languages 
+Arabic: Native. 
+English: Intermediate (B1). 
+

@@ -1,0 +1,41 @@
+npm error code ERESOLVE
+npm error ERESOLVE unable to resolve dependency tree
+npm error
+npm error While resolving: zeyad-portfolio@0.1.0
+npm error Found: react@18.3.1
+npm error node_modules/react
+npm error   react@"^18" from the root project
+npm error   peer react@"*" from expo@57.0.7
+npm error   node_modules/expo
+npm error     peerOptional expo@">=43.0" from @react-three/fiber@9.6.1
+npm error     node_modules/@react-three/fiber
+npm error       @react-three/fiber@"*" from the root project
+npm error     peer expo@"*" from @expo/metro-runtime@57.0.6
+npm error     node_modules/@expo/metro-runtime
+npm error       peerOptional @expo/metro-runtime@"*" from expo@57.0.7
+npm error     3 more (expo-asset, expo-file-system, expo-gl)
+npm error   8 more (@expo/metro-runtime, react-dom, react-native-web, ...)
+npm error
+npm error Could not resolve dependency:
+npm error peer react@">=19 <19.3" from @react-three/fiber@9.6.1
+npm error node_modules/@react-three/fiber
+npm error   @react-three/fiber@"*" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry this command with --force or --legacy-peer-deps to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\mahmoud\AppData\Local\npm-cache\_logs\2026-07-20T01_37_02_250Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\mahmoud\AppData\Local\npm-cache\_logs\2026-07-20T01_37_02_250Z-debug-0.log
+
+added 7 packages, and audited 390 packages in 7s
+
+153 packages are looking for funding
+  run `npm fund` for details
+
+5 vulnerabilities (1 moderate, 4 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.

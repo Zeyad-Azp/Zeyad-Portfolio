@@ -1,0 +1,6 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-07-20T04:38:26+03:00
+Prompt: Check if package install completed phase 2
+
+[2026-07-20T04:38:21+03:00] Still waiting. Remaining time: 3s
+[2026-07-20T04:38:27+03:00] Timer fired.
